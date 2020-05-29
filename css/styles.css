@@ -9747,8 +9747,17 @@ button.bg-dark:focus {
   color: #fff !important;
 }
 
-.text-primary {
+.text-primarylife {
   color: #00082E !important;
+}
+.text-primarypensions {
+  color: rgb(19, 59, 0);
+}
+.text-primaryannuity {
+  color: rgb(76, 1, 105) !important;
+}
+.text-primarytraining {
+  color: rgb(145, 2, 2) !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10032,10 +10041,10 @@ img::-moz-selection {
   background-color: #CBCAE9;
   border: 0;
 }
-.logo-blue {
+.logo-green {
   font-style: oblique;
   font-size: 1.75rem;
-  color: #00082E;
+  color: rgb(25, 73, 2);
 }
 #mainNav .navbar-brand {
   color: #CBCAE9;
@@ -10055,7 +10064,7 @@ img::-moz-selection {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #00082E;
+  color: rgb(25, 73, 2);
 }
 
 @media (min-width: 992px) {
